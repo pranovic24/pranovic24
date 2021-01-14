@@ -4,7 +4,7 @@ I am a Research Masters student at HKUST in the beautiful and bustling Hong Kong
 
 Most of the time, I enjoy programming, doing research, writing, testing and modifying code as requested by my research advisors.
 
-In any spare time I have, I love playing tennis and watching films.
+In any spare time I have, I love playing tennis and watching movies.
 
 <!--
 **pranovic24/pranovic24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
